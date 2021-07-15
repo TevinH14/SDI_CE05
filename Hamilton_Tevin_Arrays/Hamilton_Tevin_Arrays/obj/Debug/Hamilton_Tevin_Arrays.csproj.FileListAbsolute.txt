@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin_Arrays\Hamilton_Tevin_Arrays\bin\Debug\Hamilton_Tevin_Arrays.exe.config
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin_Arrays\Hamilton_Tevin_Arrays\bin\Debug\Hamilton_Tevin_Arrays.exe
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin_Arrays\Hamilton_Tevin_Arrays\bin\Debug\Hamilton_Tevin_Arrays.pdb
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin_Arrays\Hamilton_Tevin_Arrays\obj\Debug\Hamilton_Tevin_Arrays.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin_Arrays\Hamilton_Tevin_Arrays\obj\Debug\Hamilton_Tevin_Arrays.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin_Arrays\Hamilton_Tevin_Arrays\obj\Debug\Hamilton_Tevin_Arrays.exe
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin_Arrays\Hamilton_Tevin_Arrays\obj\Debug\Hamilton_Tevin_Arrays.pdb
